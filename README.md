@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiritto0
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oguzhamzac@gmail.com
 
