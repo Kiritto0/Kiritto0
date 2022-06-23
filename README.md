@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kobakator01@outlook.com
+- 📫 How to reach me oguzhamzac@gmail.com
 
 <!---
 Kiritto0/Kiritto0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
